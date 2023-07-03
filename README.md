@@ -19,3 +19,5 @@
   c = Counter(iterable)
   c.most_commen(n)  # return a list of n most commen objects
   ```
+
+* gen_tree返回node节点是好文明！
