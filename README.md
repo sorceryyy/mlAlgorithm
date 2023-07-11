@@ -13,7 +13,7 @@
 * 注意python中一维数组运算！！！ 如果x是一维，想得到xx^T 是二维需要先把x reshape！！不然会一直得到一个数字然后广播.....
 
 ### decision tree
-* Counter 相当好用！
+* Counter 相当好用！可以像dict一样操作
   ```python
   form collections import Counter
   c = Counter(iterable)
